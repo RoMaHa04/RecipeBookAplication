@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBApp", "RBApp\RBApp.csproj", "{A59CB4FC-3BB0-4637-A7EB-545F2595207D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59CB4FC-3BB0-4637-A7EB-545F2595207D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59CB4FC-3BB0-4637-A7EB-545F2595207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59CB4FC-3BB0-4637-A7EB-545F2595207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59CB4FC-3BB0-4637-A7EB-545F2595207D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E85BA5-BA88-4A10-BA0E-9E0C2025927D}
+	EndGlobalSection
+EndGlobal
